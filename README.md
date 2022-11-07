@@ -27,16 +27,18 @@ Users should be able to:
 ### Screenshot
 
 **Mobile View :**
+
 ![ss-1](./images/ss-1.png)
 
 ---
 
 **Desktop View :**
+
 ![ss-2](./images/ss-2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/chandan9369/Responsive-Fylo-Landing-Page)
 - Live Site URL: [Add live site URL here](https://responsive-fylo-landing-page.netlify.app/)
 
 ### Built with
